@@ -1,6 +1,6 @@
 # CIFAR-10 Object Classification: MLP vs CNN
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/cifar10-mlp-vs-cnn/blob/main/cifar10_mlp_vs_cnn.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/NermineBouzidi/cifar10-mlp-vs-cnn/blob/main/cifar10_mlp_vs_cnn.ipynb)
 
 Comparison of a fully connected network (MLP) and a convolutional neural network (CNN) for image classification on the CIFAR-10 dataset, built with TensorFlow/Keras.
 
